@@ -47,9 +47,3 @@ namespace kurs.Models
 
 
 
-
-
-
-
-
-//[StringLength(20, ErrorMessage = "Статус доставки не должен превышать 20 символов")]
