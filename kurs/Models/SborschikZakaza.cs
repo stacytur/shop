@@ -32,19 +32,3 @@ namespace kurs.Models
         public virtual ICollection<Zakaz> Zakaz { get; set; }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//[StringLength(100, ErrorMessage = "Имя сборщика заказа не должно превышать 100 символов")]
