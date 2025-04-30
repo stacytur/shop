@@ -47,13 +47,4 @@ namespace kurs.Models
 
 
 
-//[StringLength(40, ErrorMessage = "ФИО покупателя не должно превышать 40 символов")]
-
-
-
-
-
-
-
-//[StringLength(50, ErrorMessage = "Адрес доставки не должен превышать 50 символов")]
 
